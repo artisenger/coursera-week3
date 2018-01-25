@@ -3,24 +3,24 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/* 
+/*
     Created on : 22 Jan, 2018, 6:20:46 PM
     Author     : dhirendra
 */
 
 body {
-    
-    background-color:#28a4c9;
+
+    background-color:#9d9d9d;
     font-size:16px;
     color:#fff;
-  
+
 }
 
 #nav-header {
     border-radius: 0;
     border: 0;
     background-color: #f0ad4e;
-    
+
 }
 
 .navbar-brand h1{
@@ -32,7 +32,7 @@ body {
 
 .navbar-brand a:hover{
     text-decoration: none;
-    
+
 }
 
 #nav-list {
@@ -46,7 +46,7 @@ body {
     margin-top:-16px;
     color:black;
    // text-transform: uppercase;
-    
+
 }
 
 .container .jumbotron {
